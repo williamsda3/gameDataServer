@@ -5,6 +5,10 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/test', methods=['GET'])
+def testing():
+    return jsonify({'message': 'nice'})
+
 @app.route('/saveGameData', methods=['POST'])
 def save_game_data():
     try:
