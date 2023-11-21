@@ -12,7 +12,7 @@ def testing():
     return jsonify({'message': 'nice'})
 @app.route('/getData', methods=['GET'])
 def getData():
-    return gameData
+    return jsonify({'gameData':gameData})
 
 @app.route('/saveGameData', methods=['POST'])
 def save_game_data():
