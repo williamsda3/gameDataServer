@@ -30,7 +30,7 @@ def save_game_data():
         with open(filename, 'w') as file:
             json.dump(existing_data, file, indent=2)
 
-        return jsonify({'success': True, 'message': 'Data saved successfully.' + game_data}), 200
+        return jsonify({'success': True, 'message': 'Data saved successfully.' + str(game_data)}), 200
     except Exception as e:
         print(f"Error saving data: {e}")
         return jsonify({'success': False, 'message': 'Error saving data.'}), 500
