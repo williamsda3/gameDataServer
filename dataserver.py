@@ -5,9 +5,14 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+
+gameData = []
 @app.route('/test', methods=['GET'])
 def testing():
     return jsonify({'message': 'nice'})
+@app.route('/getData', methods=['GET'])
+def testing():
+    return gameData
 
 @app.route('/saveGameData', methods=['POST'])
 def save_game_data():
@@ -25,7 +30,7 @@ def save_game_data():
 
         # Append new game data
         existing_data.append(game_data)
-
+        gameData.append(game_data)
         # Write back to the file
         with open(filename, 'w') as file:
             json.dump(existing_data, file, indent=2)
