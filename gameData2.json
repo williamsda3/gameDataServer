@@ -1,0 +1,6880 @@
+[
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 2
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": -1,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": -1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 5,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 3,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 1,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 0,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 4,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 4,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 4,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 0,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 5,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "charge",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 4,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "defend",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 3,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 2,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 1
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 3,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "defend",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 2
+          },
+          "opponent": {
+            "health": 2,
+            "attackPower": 4,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "charge",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": 2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 5,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    },
+    {
+      "cpuMove": "attack",
+      "playerMove": "attack",
+      "gameState": {
+        "gameState": {
+          "player": {
+            "health": -2,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "opponent": {
+            "health": 1,
+            "attackPower": 1,
+            "blockCount": 0
+          },
+          "winner": false
+        }
+      }
+    }
+  ]
+]
