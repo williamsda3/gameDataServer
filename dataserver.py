@@ -11,7 +11,7 @@ gameData = []
 def testing():
     return jsonify({'message': 'nice'})
 @app.route('/getData', methods=['GET'])
-def testing():
+def getData():
     return gameData
 
 @app.route('/saveGameData', methods=['POST'])
